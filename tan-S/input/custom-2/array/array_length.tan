@@ -1,0 +1,4 @@
+main {
+    print length new [int](3) \n;
+    print length [1, 2] \n;
+}

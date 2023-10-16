@@ -1,0 +1,3 @@
+Jun. 15, 2023 6:57:08 P.M. logging.TanLogger log
+SEVERE: syntax error: (null line -1, character -1) expecting [CLOSE_BRACE]
+program has errors.  no executable created.

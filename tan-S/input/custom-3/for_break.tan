@@ -1,0 +1,8 @@
+main {
+    for (i from 0 to 2) {
+        print i \n;
+        if (i == 1) {
+            break;
+        }
+    }
+}

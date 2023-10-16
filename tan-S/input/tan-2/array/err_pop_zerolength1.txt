@@ -1,0 +1,15 @@
+Jul 16, 2023 12:12:09 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\array\err_pop_zerolength1.tan line 2, character 14) expecting expression
+Jul 16, 2023 12:12:09 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\array\err_pop_zerolength1.tan line 2, character 15) malformed cast or populated array creation
+Jul 16, 2023 12:12:09 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\array\err_pop_zerolength1.tan line 3, character 1) expecting [TERMINATOR]
+Jul 16, 2023 12:12:09 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\array\err_pop_zerolength1.tan line 3, character 12) expecting [ASSIGN]
+Jul 16, 2023 12:12:09 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\array\err_pop_zerolength1.tan line 3, character 14) expecting expression
+Jul 16, 2023 12:12:09 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\array\err_pop_zerolength1.tan line 4, character 0) expecting [TERMINATOR]
+Jul 16, 2023 12:12:09 AM logging.TanLogger log
+SEVERE: syntax error: (null line -1, character -1) expecting [CLOSE_BRACE]
+program has errors.  no executable created.

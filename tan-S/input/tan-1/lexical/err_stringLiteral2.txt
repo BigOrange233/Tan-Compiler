@@ -1,0 +1,9 @@
+Jun. 15, 2023 6:56:22 P.M. logging.TanLogger log
+SEVERE: Lexical error: string literal terminated by newline ('\10', (C:\Users\Mahmo\Downloads\juncoTestHarness\tan-1\input\tan-1\lexical\err_stringLiteral2.tan line 2, character 20))
+Jun. 15, 2023 6:56:22 P.M. logging.TanLogger log
+SEVERE: syntax error: (C:\Users\Mahmo\Downloads\juncoTestHarness\tan-1\input\tan-1\lexical\err_stringLiteral2.tan line 3, character 0) expecting print separator
+Jun. 15, 2023 6:56:22 P.M. logging.TanLogger log
+SEVERE: syntax error: (null line -1, character -1) expecting [TERMINATOR]
+Jun. 15, 2023 6:56:22 P.M. logging.TanLogger log
+SEVERE: syntax error: (null line -1, character -1) expecting [CLOSE_BRACE]
+program has errors.  no executable created.

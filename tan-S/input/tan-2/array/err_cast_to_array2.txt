@@ -1,0 +1,3 @@
+Jul 16, 2023 12:11:44 AM logging.TanLogger log
+SEVERE: operator <>() not defined for types [FLOATING, TYPE[ARRAY[INTEGER]]] at (..\tan-2\input\tan-2\array\err_cast_to_array2.tan line 3, character 20)
+program has errors.  no executable created.

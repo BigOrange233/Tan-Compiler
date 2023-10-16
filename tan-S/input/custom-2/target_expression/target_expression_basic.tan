@@ -1,0 +1,7 @@
+main {
+    var lvalue := 1;
+    (lvalue) := lvalue + 1;
+    print(lvalue) \n;
+    ((lvalue)) := lvalue + 1;
+    print(lvalue) \n;
+}

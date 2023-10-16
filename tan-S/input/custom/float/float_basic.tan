@@ -1,0 +1,6 @@
+main {
+    const f1 := 01.020;
+    print f1 \n;
+    const f2 := 02.030e+2;
+    print f2 \n;
+}

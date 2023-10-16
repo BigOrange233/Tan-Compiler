@@ -1,0 +1,6 @@
+main {
+    print new [bool](2) \n;
+    print new [int](3) \n;
+    print new [float](1) \n;
+    print new [int](0) \n;
+}

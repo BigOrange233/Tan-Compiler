@@ -1,0 +1,3 @@
+Jun. 15, 2023 6:57:59 P.M. logging.TanLogger log
+SEVERE: operator != not defined for types [BOOLEAN, CHARACTER] at (C:\Users\Mahmo\Downloads\juncoTestHarness\tan-1\input\tan-1\typechecking\err_typecheck_not_equals_boolean_character.tan line 2, character 25)
+program has errors.  no executable created.

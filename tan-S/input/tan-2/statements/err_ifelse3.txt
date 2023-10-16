@@ -1,0 +1,3 @@
+Jul 16, 2023 12:14:52 AM logging.TanLogger log
+SEVERE: condition of a while or if statement must be boolean, at (..\tan-2\input\tan-2\statements\err_ifelse3.tan line 4, character 1)
+program has errors.  no executable created.

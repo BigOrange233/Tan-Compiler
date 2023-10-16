@@ -1,0 +1,3 @@
+Jul 16, 2023 12:11:40 AM logging.TanLogger log
+SEVERE: operator [ not defined for types [ARRAY[INTEGER], ARRAY[INTEGER], INTEGER] at (..\tan-2\input\tan-2\array\err_arrayCreation3.tan line 2, character 14)
+program has errors.  no executable created.

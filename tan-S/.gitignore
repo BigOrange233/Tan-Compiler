@@ -1,0 +1,6 @@
+/bin
+/output
+/__pycache__
+/.git
+*.asm
+.DS_Store

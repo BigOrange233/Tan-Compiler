@@ -1,0 +1,21 @@
+Jul 16, 2023 12:15:05 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\statements\err_while6.tan line 4, character 2) expecting block statement
+Jul 16, 2023 12:15:05 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\statements\err_while6.tan line 4, character 15) expecting [ASSIGN]
+Jul 16, 2023 12:15:05 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\statements\err_while6.tan line 4, character 17) expecting expression
+Jul 16, 2023 12:15:05 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\statements\err_while6.tan line 5, character 1) expecting [TERMINATOR]
+Jul 16, 2023 12:15:05 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\statements\err_while6.tan line 5, character 15) expecting [ASSIGN]
+Jul 16, 2023 12:15:05 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\statements\err_while6.tan line 5, character 17) expecting expression
+Jul 16, 2023 12:15:05 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\statements\err_while6.tan line 6, character 0) expecting [TERMINATOR]
+Jul 16, 2023 12:15:05 AM logging.TanLogger log
+SEVERE: syntax error: (null line -1, character -1) expecting [CLOSE_BRACE]
+Jul 16, 2023 12:15:06 AM logging.TanLogger log
+SEVERE: semantic error: left-hand side of assignment statement must be a targetable expresssion at (..\tan-2\input\tan-2\statements\err_while6.tan line 4, character 15)
+Jul 16, 2023 12:15:06 AM logging.TanLogger log
+SEVERE: semantic error: left-hand side of assignment statement must be a targetable expresssion at (..\tan-2\input\tan-2\statements\err_while6.tan line 5, character 15)
+program has errors.  no executable created.

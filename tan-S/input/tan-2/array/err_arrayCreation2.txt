@@ -1,0 +1,15 @@
+Jul 16, 2023 12:11:39 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\array\err_arrayCreation2.tan line 2, character 27) expecting [CLOSE_BRACKET]
+Jul 16, 2023 12:11:39 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\array\err_arrayCreation2.tan line 4, character 1) expecting [TERMINATOR]
+Jul 16, 2023 12:11:39 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\array\err_arrayCreation2.tan line 4, character 10) expecting [ASSIGN]
+Jul 16, 2023 12:11:39 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\array\err_arrayCreation2.tan line 4, character 12) expecting expression
+Jul 16, 2023 12:11:39 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\array\err_arrayCreation2.tan line 5, character 0) expecting [TERMINATOR]
+Jul 16, 2023 12:11:39 AM logging.TanLogger log
+SEVERE: syntax error: (null line -1, character -1) expecting [CLOSE_BRACE]
+Jul 16, 2023 12:11:39 AM logging.TanLogger log
+SEVERE: semantic error: attempt to modify a const variable at (..\tan-2\input\tan-2\array\err_arrayCreation2.tan line 4, character 10)
+program has errors.  no executable created.

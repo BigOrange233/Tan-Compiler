@@ -1,0 +1,14 @@
+subr int fib(int n) {
+    if (n <= 1) {
+        return n;
+    }
+    return fib(n - 1) + fib(n - 2);
+}
+
+main {
+    var i := 0;
+    while (i < 10) {
+        print '[' \ i \ ']' \s fib(i) \n;
+        i := i + 1;
+    }
+}

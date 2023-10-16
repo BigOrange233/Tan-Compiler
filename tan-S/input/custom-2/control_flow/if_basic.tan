@@ -1,0 +1,6 @@
+main {
+    if (true) {
+        print true \n;
+    }
+    print "done" \n;
+}

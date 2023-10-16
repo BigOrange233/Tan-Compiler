@@ -1,0 +1,3 @@
+Jul 16, 2023 12:14:58 AM logging.TanLogger log
+SEVERE: semantic error: left-hand side of assignment statement must be a targetable expresssion at (..\tan-2\input\tan-2\statements\err_target2.tan line 4, character 10)
+program has errors.  no executable created.

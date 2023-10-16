@@ -1,0 +1,10 @@
+main {
+    var i := 0;
+    while (i < 3) {
+        print i \n;
+        if (i == 1) {
+            break;
+        }
+        i := i + 1;
+    }
+}

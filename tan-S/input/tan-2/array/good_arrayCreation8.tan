@@ -1,0 +1,13 @@
+main {
+	const AA := new[int](8);
+	[AA:7] := 13;
+	print AA \n;
+	
+	const BB := new[float](6);
+	[BB:5] := 2.34;
+	print BB \n;
+	
+	const CC := new[bool](4);
+	[CC:3] := true;
+	print CC \n;
+}

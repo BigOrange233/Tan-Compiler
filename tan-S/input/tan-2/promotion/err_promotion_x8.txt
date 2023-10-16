@@ -1,0 +1,3 @@
+Jul 16, 2023 12:14:07 AM logging.TanLogger log
+SEVERE: operator := not defined for types [INTEGER, STRING] at (..\tan-2\input\tan-2\promotion\err_promotion_x8.tan line 3, character 3)
+program has errors.  no executable created.

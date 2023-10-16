@@ -1,0 +1,3 @@
+Jun. 15, 2023 6:57:48 P.M. logging.TanLogger log
+SEVERE: operator <= not defined for types [FLOATING, INTEGER] at (C:\Users\Mahmo\Downloads\juncoTestHarness\tan-1\input\tan-1\typechecking\err_typecheck_less_equals_floating_integer.tan line 2, character 24)
+program has errors.  no executable created.

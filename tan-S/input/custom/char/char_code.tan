@@ -1,0 +1,4 @@
+main {
+    # print a newline
+    print %012;
+}

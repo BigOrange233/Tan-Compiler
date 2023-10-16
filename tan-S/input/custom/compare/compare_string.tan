@@ -1,0 +1,6 @@
+main {
+    print "abc" != "123" \n;
+    const a := "ABC";
+    const b := a;
+    print a == b \n;
+}

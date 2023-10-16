@@ -1,0 +1,7 @@
+main {
+    var value := 3;
+    while (value > 0) {
+        value := value - 1;
+        print value \n;
+    }
+}

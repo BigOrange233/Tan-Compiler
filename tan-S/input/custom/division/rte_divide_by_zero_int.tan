@@ -1,0 +1,6 @@
+main {
+    const a := 1;
+    const zero := 0;
+    const c := a / zero;
+    print c \n;
+}

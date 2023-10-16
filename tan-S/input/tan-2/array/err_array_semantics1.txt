@@ -1,0 +1,3 @@
+Jul 16, 2023 12:11:41 AM logging.TanLogger log
+SEVERE: semantic error: attempt to modify a const variable at (..\tan-2\input\tan-2\array\err_array_semantics1.tan line 6, character 6)
+program has errors.  no executable created.

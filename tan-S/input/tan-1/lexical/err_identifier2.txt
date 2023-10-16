@@ -1,0 +1,5 @@
+Jun. 15, 2023 6:56:21 P.M. logging.TanLogger log
+SEVERE: Lexical error: invalid character (^, (C:\Users\Mahmo\Downloads\juncoTestHarness\tan-1\input\tan-1\lexical\err_identifier2.tan line 2, character 10))
+Jun. 15, 2023 6:56:21 P.M. logging.TanLogger log
+SEVERE: Lexical error: invalid character (^, (C:\Users\Mahmo\Downloads\juncoTestHarness\tan-1\input\tan-1\lexical\err_identifier2.tan line 3, character 10))
+program has errors.  no executable created.

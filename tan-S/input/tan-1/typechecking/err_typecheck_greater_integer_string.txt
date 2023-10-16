@@ -1,0 +1,3 @@
+Jun. 15, 2023 6:57:42 P.M. logging.TanLogger log
+SEVERE: operator > not defined for types [INTEGER, STRING] at (C:\Users\Mahmo\Downloads\juncoTestHarness\tan-1\input\tan-1\typechecking\err_typecheck_greater_integer_string.tan line 2, character 23)
+program has errors.  no executable created.

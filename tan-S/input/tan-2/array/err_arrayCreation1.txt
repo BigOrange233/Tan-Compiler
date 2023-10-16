@@ -1,0 +1,9 @@
+Jul 16, 2023 12:11:38 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\array\err_arrayCreation1.tan line 2, character 18) expecting [CLOSE_BRACKET]
+Jul 16, 2023 12:11:38 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\array\err_arrayCreation1.tan line 2, character 22) expecting [TERMINATOR]
+Jul 16, 2023 12:11:38 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\array\err_arrayCreation1.tan line 2, character 25) expecting [CLOSE_BRACE]
+Jul 16, 2023 12:11:38 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\array\err_arrayCreation1.tan line 2, character 26) expecting end of program
+program has errors.  no executable created.

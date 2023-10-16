@@ -1,0 +1,7 @@
+subr int foo() {
+    return 42;
+}
+
+main {
+    print foo() \n;
+}

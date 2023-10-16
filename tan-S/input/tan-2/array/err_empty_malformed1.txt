@@ -1,0 +1,13 @@
+Jul 16, 2023 12:11:47 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\array\err_empty_malformed1.tan line 2, character 21) expecting [OPEN_PARENTHESIS]
+Jul 16, 2023 12:11:47 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\array\err_empty_malformed1.tan line 3, character 1) expecting expression
+Jul 16, 2023 12:11:47 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\array\err_empty_malformed1.tan line 3, character 7) expecting [CLOSE_PARENTHESIS]
+Jul 16, 2023 12:11:47 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\array\err_empty_malformed1.tan line 3, character 12) expecting [TERMINATOR]
+Jul 16, 2023 12:11:47 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\array\err_empty_malformed1.tan line 3, character 14) expecting [CLOSE_BRACE]
+Jul 16, 2023 12:11:47 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\array\err_empty_malformed1.tan line 4, character 0) expecting end of program
+program has errors.  no executable created.

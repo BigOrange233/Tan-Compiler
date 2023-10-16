@@ -1,0 +1,13 @@
+Jul 16, 2023 12:14:50 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\statements\err_ifelse1.tan line 2, character 4) expecting [OPEN_PARENTHESIS]
+Jul 16, 2023 12:14:51 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\statements\err_ifelse1.tan line 2, character 10) expecting expression
+Jul 16, 2023 12:14:51 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\statements\err_ifelse1.tan line 3, character 2) expecting [CLOSE_PARENTHESIS]
+Jul 16, 2023 12:14:51 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\statements\err_ifelse1.tan line 3, character 8) expecting block statement
+Jul 16, 2023 12:14:51 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\statements\err_ifelse1.tan line 3, character 15) expecting [CLOSE_BRACE]
+Jul 16, 2023 12:14:51 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\statements\err_ifelse1.tan line 3, character 17) expecting end of program
+program has errors.  no executable created.

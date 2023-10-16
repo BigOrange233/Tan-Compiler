@@ -1,0 +1,15 @@
+main {
+    const a := [1];
+    print [a:0] \n;
+    [a:0] := 2;
+    print a \n;
+
+    print [[2, 4, 6] : 1] \n;
+    print [[[1, 3, 5], [2, 4, 6]] : 1] \n;
+    print [[[[1, 3, 5], [2, 4, 6]] : 1] : 2] \n;
+
+    var b := new [string](2);
+    [b:0] := "hello";
+    [b:1] := "world";
+    print b \n;
+}

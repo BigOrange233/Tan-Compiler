@@ -1,0 +1,9 @@
+Jun. 15, 2023 6:57:09 P.M. logging.TanLogger log
+SEVERE: syntax error: (C:\Users\Mahmo\Downloads\juncoTestHarness\tan-1\input\tan-1\statements\err_declaration3.tan line 2, character 10) expecting [ASSIGN]
+Jun. 15, 2023 6:57:09 P.M. logging.TanLogger log
+SEVERE: syntax error: (C:\Users\Mahmo\Downloads\juncoTestHarness\tan-1\input\tan-1\statements\err_declaration3.tan line 2, character 14) expecting [TERMINATOR]
+Jun. 15, 2023 6:57:09 P.M. logging.TanLogger log
+SEVERE: syntax error: (C:\Users\Mahmo\Downloads\juncoTestHarness\tan-1\input\tan-1\statements\err_declaration3.tan line 2, character 17) expecting [CLOSE_BRACE]
+Jun. 15, 2023 6:57:09 P.M. logging.TanLogger log
+SEVERE: syntax error: (C:\Users\Mahmo\Downloads\juncoTestHarness\tan-1\input\tan-1\statements\err_declaration3.tan line 2, character 19) expecting end of program
+program has errors.  no executable created.

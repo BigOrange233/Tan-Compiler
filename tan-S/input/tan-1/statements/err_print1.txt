@@ -1,0 +1,3 @@
+Jun. 15, 2023 6:57:09 P.M. logging.TanLogger log
+SEVERE: syntax error: (C:\Users\Mahmo\Downloads\juncoTestHarness\tan-1\input\tan-1\statements\err_print1.tan line 3, character 17) expecting print separator
+program has errors.  no executable created.

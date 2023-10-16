@@ -1,0 +1,19 @@
+main {
+    var condition := true;
+
+    if (condition) {
+        print true \n;
+    } else {
+        print false \n;
+    }
+    print "done 1" \n;
+
+    condition := false;
+
+    if (condition) {
+        print true \n;
+    } else {
+        print false \n;
+    }
+    print "done 2" \n;
+}

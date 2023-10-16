@@ -1,0 +1,11 @@
+Jul 16, 2023 12:14:55 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\statements\err_ifelse6.tan line 4, character 2) expecting block statement
+Jul 16, 2023 12:14:55 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\statements\err_ifelse6.tan line 4, character 11) expecting [ASSIGN]
+Jul 16, 2023 12:14:55 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\statements\err_ifelse6.tan line 4, character 13) expecting expression
+Jul 16, 2023 12:14:55 AM logging.TanLogger log
+SEVERE: syntax error: (..\tan-2\input\tan-2\statements\err_ifelse6.tan line 5, character 1) expecting [TERMINATOR]
+Jul 16, 2023 12:14:55 AM logging.TanLogger log
+SEVERE: semantic error: left-hand side of assignment statement must be a targetable expresssion at (..\tan-2\input\tan-2\statements\err_ifelse6.tan line 4, character 11)
+program has errors.  no executable created.

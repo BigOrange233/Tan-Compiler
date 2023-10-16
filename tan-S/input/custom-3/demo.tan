@@ -1,0 +1,24 @@
+subr int mul(int a, int b) {
+    var i := 0;
+    var result := 0;
+    while (i < b) {
+        result := result + a;
+        i := i + 1;
+    }
+    return result;
+}
+
+subr int mul2(int a, int b) {
+    if (b < 0) {
+        return -mul2(a, -b);
+    }
+    if (b == 0) {
+        return 0;
+    }
+    return a + mul2(a, b - 1);
+}
+
+main {
+    print mul(3, 4) \n;
+    print mul2(3, 4) == mul(4, 3) \n;
+}

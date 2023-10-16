@@ -1,0 +1,4 @@
+# line comment
+main {
+    print 4 #block comment# \ 2 \n;
+}

@@ -1,0 +1,4 @@
+main {
+    const s := "Hello, World!";
+    print s \n;
+}

@@ -1,0 +1,7 @@
+subr void foo() {
+    print 42 \n;
+}
+
+main {
+    call foo();
+}

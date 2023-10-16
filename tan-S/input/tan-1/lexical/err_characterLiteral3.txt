@@ -1,0 +1,5 @@
+Jun. 15, 2023 6:56:18 P.M. logging.TanLogger log
+SEVERE: Lexical error: Illegal character code %  \ at (C:\Users\Mahmo\Downloads\juncoTestHarness\tan-1\input\tan-1\lexical\err_characterLiteral3.tan line 2, character 7)
+Jun. 15, 2023 6:56:18 P.M. logging.TanLogger log
+SEVERE: identifier "n" used before defined at (C:\Users\Mahmo\Downloads\juncoTestHarness\tan-1\input\tan-1\lexical\err_characterLiteral3.tan line 2, character 11)
+program has errors.  no executable created.

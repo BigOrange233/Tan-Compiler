@@ -1,0 +1,5 @@
+main {
+    # char code beyond 127 is invalid
+    # octal 200 is 128
+    const invalid_code := %200;
+}

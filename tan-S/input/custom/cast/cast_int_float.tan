@@ -1,0 +1,3 @@
+main {
+    print <float>(1) \n;
+}

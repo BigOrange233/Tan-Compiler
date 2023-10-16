@@ -1,0 +1,5 @@
+Jun. 15, 2023 6:56:26 P.M. logging.TanLogger log
+SEVERE: syntax error: (C:\Users\Mahmo\Downloads\juncoTestHarness\tan-1\input\tan-1\miscellaneous\err_terminators1.tan line 2, character 13) expecting [CLOSE_BRACE]
+Jun. 15, 2023 6:56:26 P.M. logging.TanLogger log
+SEVERE: syntax error: (C:\Users\Mahmo\Downloads\juncoTestHarness\tan-1\input\tan-1\miscellaneous\err_terminators1.tan line 3, character 0) expecting end of program
+program has errors.  no executable created.

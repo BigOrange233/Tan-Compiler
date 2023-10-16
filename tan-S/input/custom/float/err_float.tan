@@ -1,0 +1,3 @@
+main {
+    const invalid_f1 := 1.;
+}
